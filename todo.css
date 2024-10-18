@@ -1,0 +1,19 @@
+.A{
+    height: 80vh;
+    width: 50vh;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    border-radius: 5%;
+    background-image: url(https://png.pngtree.com/thumb_back/fw800/background/20230904/pngtree-paper-office-accessory-image_13241896.jpg);
+}
+.B{
+    text-align: center;
+    margin-top: 50px;
+}
+button{
+    background-color: darkgreen;
+    margin-top: 100px;
+    height: 30%;
+    width: 80px;
+}
